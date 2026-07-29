@@ -16,7 +16,7 @@
 
 ## 📚 Overview
 
-Welcome to the **Message Intelligence System**! This project applies supervised learning to classify digital messages as either legitimate or spam using a structured dataset of message and sender behavior features. It is designed as a comprehensive academic submission that demonstrates preprocessing, model training, probability-based reasoning, and comparative evaluation.
+Welcome to the **Message Intelligence System**! This project applies supervised learning to classify digital messages as either legitimate or spam using a structured dataset of message and sender behavior features and more advanced classification techniques than [`Pr. 3`](https://github.com/Prath-Digital/Supervised_Learning_PR.-3). It is designed as a comprehensive academic submission that demonstrates preprocessing, model training, probability-based reasoning, and comparative evaluation.
 
 ---
 
@@ -112,7 +112,6 @@ Open `project.ipynb` in Jupyter Notebook or VS Code and execute the cells sequen
 
 - [x] Source code (`project.ipynb`)
 - [x] Model evaluation results
-- [x] Graphs and plots
 - [x] Summary report (`summary-report.pdf`)
 - [x] Conceptual answers (`theory-concepts.pdf`)
 
